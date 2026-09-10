@@ -5,3 +5,4 @@
 - Creación de la estructura inicial del proyecto.
 - Archivos base: README.md, docs/alcance.md, docs/criterios.md, data/recursos.json.
 - Configuración del entorno virtual y dependencias iniciales.
+- Se incorporó documentación adicional sobre fuentes recomendadas y criterios de clasificación.
