@@ -1,0 +1,16 @@
+[
+  {
+    "titulo": "Clean Code",
+    "tipo": "libro",
+    "tema": "programación",
+    "nivel": "intermedio",
+    "autor": "Robert C. Martin"
+  },
+  {
+    "titulo": "Introducción a Git y GitHub",
+    "tipo": "video",
+    "tema": "control de versiones",
+    "nivel": "básico",
+    "autor": "freeCodeCamp"
+  }
+]
