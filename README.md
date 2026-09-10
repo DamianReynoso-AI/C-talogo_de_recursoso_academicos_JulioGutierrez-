@@ -40,3 +40,10 @@ catalogo_recursos/
 ## Dependencias
 - requests
 - rich
+
+## Próximas mejoras
+
+- Implementar búsqueda y filtrado de recursos por tipo, tema y nivel.
+- Agregar validación de datos al registrar nuevos recursos.
+- Incluir pruebas automatizadas más completas.
+- Conectar el catálogo con una interfaz de usuario sencilla.
