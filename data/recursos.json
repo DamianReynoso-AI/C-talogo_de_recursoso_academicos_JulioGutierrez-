@@ -12,5 +12,12 @@
     "tema": "control de versiones",
     "nivel": "básico",
     "autor": "freeCodeCamp"
-  }
+  },
+  {
+    "titulo": "Khan Academy",
+    "tipo": "sitio web",
+    "tema": "matemáticas",
+    "nivel": "básico",
+    "autor": "Khan Academy"
+}
 ]
