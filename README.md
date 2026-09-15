@@ -47,3 +47,5 @@ catalogo_recursos/
 - Agregar validación de datos al registrar nuevos recursos.
 - Incluir pruebas automatizadas más completas.
 - Conectar el catálogo con una interfaz de usuario sencilla.
+
+## Tipos de recursos
