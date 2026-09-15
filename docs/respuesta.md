@@ -4,6 +4,13 @@
 
 Registrar las dependencias en `requirements.txt` es mucho más eficiente que compartir la carpeta `.venv`, ya que este archivo solo contiene una lista de texto con los nombres y versiones de las bibliotecas necesarias, mientras que `.venv` puede pesar varios cientos de megabytes al incluir todos los binarios e instalaciones completas del intérprete y los paquetes. Además, `.venv` depende del sistema operativo en el que fue creado, por lo que compartirla podría causar errores en otras máquinas o plataformas distintas. Con `requirements.txt`, cualquier persona puede recrear exactamente el mismo entorno ejecutando `pip install -r requirements.txt`, sin importar su sistema operativo, manteniendo el repositorio ligero y evitando subir archivos innecesarios a Git.
 
+
+## Pregunta de control (Punto 12)
+¿Por qué el repositorio que tienes ahora en tu computadora no es el
+mismo concepto que el fork creado en GitHub?
+R: El repositorio en tu computadora es una copia local de código y su historial Git: donde editas, haces commit, pruebas cambios y manejas ramas.
+El fork en GitHub es un repositorio remoto independiente, creado como copia de otro repositorio dentro de tu propia cuenta u organización. Sirve para trabajar sin modificar directamente el repositorio original y, si procede, proponer cambios mediante un pull request
+
 79. ¿Cómo identificaron el comando necesario cuando la práctica no lo proporcionó?
 
 Pensamos en qué queríamos hacer y buscamos cómo hacerlo. Por ejemplo, si necesitábamos crear un entorno virtual, buscamos "cómo crear entorno virtual Python". Experimentamos con comandos seguros y leímos los errores para entender qué estaba mal.
